@@ -3710,4 +3710,5 @@ The overall density index for Edinburgh Airbnb listings is 32.7 per km2 (8,044 l
 - Tollcross - 06	`1082.1`
 - Old Town, Princes Street and Leith Street - 06	`1077.0`
 
-It was also a good opportunity to make use of Folium which is a powerful and versatile, interactive mapping option.
+It was also a good opportunity to make use of Folium which is a powerful and versatile, interactive mapping option. In the end, I resorted to using Felt to share my map. I couldn't find a way to share the Folium maps unfortunately.
+You can see the chorpleth map [here](https://felt.com/map/Tutorial-Learn-to-Use-Felt-f56pLHJ2RcGUpQON3gtwmC?loc=55.95639,-3.183,13.61z&share=1).
